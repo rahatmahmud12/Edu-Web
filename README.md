@@ -12,11 +12,14 @@ Coding is arguably one of the most important skills for current as well as futur
 ### Our Websites
 
 Has several courses-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1.Web debelopment
+2. Graphic design
+3.Robotics
+4. App development
+5. Game development
+6. Mechine learning
+7. Data science
+
+##Live link:
+https://wonderful-mccarthy-ee80d8.netlify.app/
 
