@@ -1,0 +1,19 @@
+.about{
+   
+    margin: 80px 120px;
+}
+.about img{
+    width: 50%;
+    height: 50%;
+    padding-left: 200px ;
+}
+.details{
+    padding-top: 70px;
+    font-size:25px;
+    width: 40%;
+    color: rgb(85, 85, 85);
+}
+.company-name{
+    font-size: 35px;
+    color: orangered;
+}

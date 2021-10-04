@@ -1,0 +1,13 @@
+.text-footer{
+    width: 42%;
+    font-size: 25px;
+    padding-left: 50px;
+    font-weight: 700;
+    color: rgb(83, 14, 9);
+}
+
+.copyright{
+    padding-left: 400px;
+    padding-top: 20px;
+    color: rgb(109, 14, 7);
+}

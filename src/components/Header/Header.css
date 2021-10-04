@@ -1,0 +1,20 @@
+.header{
+    background-color: rgb(33, 194, 140);
+   
+   
+    
+}
+.header img{
+    width: 30%;
+    height: 10%;
+    padding-left: 300px;
+    border-radius: 15px;
+
+}
+
+.link-all{
+    padding: 35px 250px;
+}
+.link{
+    padding-right: 55px;
+}
