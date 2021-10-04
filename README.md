@@ -24,3 +24,11 @@ Has several courses-
 
 https://wonderful-mccarthy-ee80d8.netlify.app/
 
+### Benefits of our courses
+
+Coding requires logical thinking and teaches children how to tackle complex problems by breaking them down into smaller problems which are easier to manage and solve. This process is called decomposition. Even if children never become a professional computer programmer or software engineer, they will benefit from learning to think this way.
+
+Perseverance is not an easy trait to teach, especially to a child or student. However, it is an important skill to have in life in general. We don’t want children to just give up when they come across a problem or obstacle, we want them to keep going. Coding teaches children persistence, that in order to solve the problem they have, they must keep going, coming up with different solutions until they have the right one.
+
+Resilience is not something you can be taught. As such, kids need to experience in order to develop these skills. A great benefit of learning to code is that children learn to build resilience through troubleshooting. When they hit a wall, they need to find a solution. If the first solution doesn’t work, they try another one. If that one doesn’t work, they try again until the problem is solved. This is called debugging in computer programming. These types of thinking skills are highly sought after.
+
