@@ -1,6 +1,6 @@
 # Edu-Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This the leading educational website in the world. We teach students all over the world in defferent field of computer programming.
 
 ## Importance of computer science and programming
 
