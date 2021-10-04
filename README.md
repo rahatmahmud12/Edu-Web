@@ -20,6 +20,7 @@ Has several courses-
 6. Mechine learning
 7. Data science
 
-##Live link:
+## Live link: Click the link and explore the courses
+
 https://wonderful-mccarthy-ee80d8.netlify.app/
 
